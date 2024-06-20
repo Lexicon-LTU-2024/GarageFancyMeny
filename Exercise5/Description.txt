@@ -1,0 +1,16 @@
+﻿Nu måste jag lämna in övning 5, så här är den.
+
+Jag är nog rätt så nöjd med det mesta i min
+applikation, men det som jag inte är nöjd med,
+är följande:
+
+* Jag lyckades inte få till ett testprojekt, 
+  så där räknar jag med att få bakläxa. Tyvärr
+  verkade E-L-kursen (den första) inte handla 
+  om Core, så det blev väldigt mycket fel där.
+
+* Vad gäller interfacehanteringen, så lyckades jag
+  inte få till ett vettigt IVehicle-interface, så där
+  använder jag Vehicle-objektet rakt av. En abstrakt
+  klass blev det i alla fall. Däremot fungerade IUI-
+  interfacet bra.
